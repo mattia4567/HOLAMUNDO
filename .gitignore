@@ -1,0 +1,12 @@
+# Configuración local del editor
+.vscode/
+
+# Archivos y carpetas de compilación
+*.exe
+*.o
+*.out
+build/
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store
